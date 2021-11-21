@@ -1,0 +1,94 @@
+.les{
+    font-size: 35px;
+    margin: 25px;
+    position: relative;
+    top: 25px;
+    text-align: center;
+}
+.eight{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color:black;
+    margin: 15px;
+}
+.nine{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color:black;
+    margin: 15px;
+}
+.ten{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color:black;
+    margin: 15px;
+}
+.twe{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    background-color:black;
+    margin: 15px;
+}
+.back{
+    background-color: gray;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 15px;
+
+}
+body{
+    background-color:grey;
+}    
+.god{
+    background-color:whitesmoke
+}
+.sem{
+    width: 300px;
+    height: 282px;
+    background:url("lesson\ 8.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+.sen{
+    width: 300px;
+    height: 282px;
+    background:url("lesson\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+.seb{
+    width: 300px;
+    height: 282px;
+    background:url("lesson\ 10.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+.sev{
+    width: 300px;
+    height: 282px;
+    background:url("lesson\ 12.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
